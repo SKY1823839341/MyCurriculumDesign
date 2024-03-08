@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="硕士研究生录取报名系统:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="硕士研究生录取报名系统.jar">
+        <element id="module-output" name="硕士研究生录取报名系统" />
+      </element>
+      <element id="file-copy" path="D:/Java/jdk1.8.0_181/lib/sqljdbc_9.4.0.0_chs/sqljdbc_9.4/chs/mssql-jdbc-9.4.0.jre8.jar" />
+    </root>
+  </artifact>
+</component>

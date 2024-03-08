@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: 硕士研究生录取报名系统.startup
+Class-Path: mssql-jdbc-9.4.0.jre8.jar
+
